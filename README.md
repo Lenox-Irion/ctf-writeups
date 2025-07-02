@@ -5,12 +5,6 @@ This is where I document my journey and insights in the field of **Cybersecurity
 
 ---
 
-## 📂 Structure
-
-ctf-writeups/ ├── HTB/ # Hack The Box writeups ├── THM/ # TryHackMe writeups ├── PG/ # Proving Grounds writeups └── misc/ # Other challenges (web, reversing, etc.)
-
----
-
 ## 📜 Guidelines
 
 - No flags or solutions for active machines are shared.
